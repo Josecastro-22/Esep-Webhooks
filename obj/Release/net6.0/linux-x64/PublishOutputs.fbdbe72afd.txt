@@ -1,0 +1,7 @@
+/Users/josecastro/Desktop/techelective/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.deps.json
+/Users/josecastro/Desktop/techelective/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.runtimeconfig.json
+/Users/josecastro/Desktop/techelective/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.pdb
+/Users/josecastro/Desktop/techelective/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/josecastro/Desktop/techelective/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/josecastro/Desktop/techelective/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Newtonsoft.Json.dll
+/Users/josecastro/Desktop/techelective/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.dll
